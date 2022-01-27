@@ -3,7 +3,7 @@ Leaflet storymap with scroll-driven navigation for narrative and point markers f
 
 http://racheldaniell.github.io/leaflet-storymap-custom/index.html
 
-This is a workshop tool based on a fork of the original by slead.github.io from https://github.com/JackDougherty/leaflet-storymap and uses [Handlebars template](http://handlebarsjs.com/) to configure the individual story elements.
+This is a workshop tool based on a fork of the original by slead.github.io from https://github.com/JackDougherty/leaflet-storymap and uses [Handlebars template](http://handlebarsjs.com/) to configure the individual story elements..
 
 ## Original Demo
 http://slead.github.io/leaflet-storymap/index.html
